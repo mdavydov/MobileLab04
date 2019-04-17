@@ -3,7 +3,7 @@
 **Мета роботи:** ознайомитись з засобами мережевої взаємодії мобільних додатків. Навчитись створювати засоби авторизації користувачів на мобільній платформі.
 
 Хід роботи:
-1. Створити сервіс в Azure Mobile Services
+1. Створити сервіс в Azure Mobile Services (https://portal.azure.com)
 2. Створити таблицю в  Azure Mobile Services. Ознайомитись із засобами редагування таблиці і скриптів.
 3. Створити приклад програми на Android або iOS для роботи з  Azure Mobile Services.
 4. Ознайомитись із засобами авторизації користувачів (див. https://azure.microsoft.com/en-us/documentation/articles/mobile-services-android-get-started-users/)
